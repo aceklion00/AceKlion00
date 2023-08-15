@@ -13,7 +13,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> React.js and Angular, Vue.js, Nest.js enthusiast and Blockchain expert.
+I am a Skilled Shopify Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> React.js | Vue.js | Nest.js enthusiast and Laravel & Symfony expert.
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on StackOverFlow.
